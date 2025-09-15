@@ -1,0 +1,7 @@
+# Torneo Padel Siulp
+Progetto Android completo con:
+- UI Jetpack Compose
+- Database Room
+- Workflow GitHub Actions per generare APK
+
+Scarica questo zip, estrailo, e caricalo su GitHub o aprilo in Android Studio per ottenere l'APK installabile.
